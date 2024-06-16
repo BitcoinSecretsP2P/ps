@@ -56,10 +56,10 @@ Cook Islands
 Costa Rica
 Croatia
 Cuba
-Curaçao
+CuraÃ§ao
 Cyprus
 Czechia
-Côte d’Ivoire
+CÃ´te dâ€™Ivoire
 Denmark
 Djibouti
 Dominica
@@ -184,7 +184,7 @@ Qatar
 Romania
 Russia
 Rwanda
-Réunion
+RÃ©union
 Sahrawi Arab Democratic Republic
 Samoa
 San Marino
@@ -207,7 +207,7 @@ South Ossetia
 South Sudan
 Spain
 Sri Lanka
-St. Barthélemy
+St. BarthÃ©lemy
 St. Helena
 St. Kitts & Nevis
 St. Lucia
@@ -220,7 +220,7 @@ Svalbard & Jan Mayen
 Sweden
 Switzerland
 Syria
-S?o Tomé & Pr?ncipe
+S?o TomÃ© & Pr?ncipe
 Taiwan
 Tajikistan
 Tanzania
